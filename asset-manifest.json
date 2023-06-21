@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7097f947.css",
+    "main.js": "/static/js/main.c52b063c.js",
+    "static/media/Wonder_Mail.ttf": "/static/media/Wonder_Mail.800fa0db9e77e8852615.ttf",
+    "index.html": "/index.html",
+    "main.7097f947.css.map": "/static/css/main.7097f947.css.map",
+    "main.c52b063c.js.map": "/static/js/main.c52b063c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7097f947.css",
+    "static/js/main.c52b063c.js"
+  ]
+}

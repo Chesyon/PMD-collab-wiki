@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7097f947.css","mappings":"AAAA,WACE,sBAAuB,CAEvB,gBAAiB,CADjB,2DAEF","sources":["index.css"],"sourcesContent":["@font-face {\n  font-family: wonderMail;\n  src: url(\"../public/Wonder_Mail.ttf\");\n  size-adjust: 150%;\n}\n"],"names":[],"sourceRoot":""}
